@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Build Status
-[Build Status] https://img.shields.io/github/workflow/status/MohoCoder1/grpc-rest-websocket/CI?label=build
+[Build Status] (https://img.shields.io/github/workflow/status/MohoCoder1/grpc-rest-websocket/CI?label=build)
